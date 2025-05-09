@@ -1,0 +1,16 @@
+.bg-style {
+    background-image: url("images/backgroundImg.jpg");
+    background-size: cover;
+    
+}
+
+.bg-shade {
+    height: 100vh;
+    width: 100vw;
+    background-color: rgba(0, 0, 0, 0.7);
+    /* border-radius: 30px; */
+    /* border: 1px solid white; */
+    font-family: Arial;
+    margin-top: -10px;
+    margin-left: -10px;
+}

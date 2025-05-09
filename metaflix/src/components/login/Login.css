@@ -1,0 +1,24 @@
+.register-title{
+    margin-top: 20px;
+    font-family: Arial;
+    font-size: 18px;
+}
+.register {
+    margin: 20px;
+}
+
+
+.email, .btn-start {
+    font-size: 23px;
+    padding: 10px;
+    border-radius: 25px;
+    margin-right: 10px;
+    border: none;
+}
+.email::placeholder {
+    font-size: 16px;
+}
+.btn-start {
+    background-color: red;
+    color: white;
+}
